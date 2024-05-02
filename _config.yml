@@ -52,9 +52,9 @@ round-avatar: false
 social-network-links:
   email: "fabiancontacto12@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: "https://www.facebook.com/sebastyan.alexis.9"
-  github: "https://github.com/FabianSimbana"
-  twitter: "https://twitter.com"
+  facebook: Fabian Alexander
+  github: FabianSimbana
+  twitter: HolaSoyFabian
   youtube: "@daattali"
   whatsapp: 15551212
 #  medium: yourname
