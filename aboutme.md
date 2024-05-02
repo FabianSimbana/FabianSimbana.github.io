@@ -9,6 +9,7 @@ en la Escuela Politecnica Nacional del Ecuador.
 
 Los lenguajes de programación en los que me desenvuelvo academicamente son:
 
+
 - C
 - C++
 - Java
