@@ -1,13 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Un poco acerca de mi :D
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hola, me llamo Fabian y soy un estudiante de ingenieria en ciencias de la computación
+en la Escuela Politecnica Nacional del Ecuador.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Los lenguajes de programación en los que me desenvuelvo academicamente son:
+
+- C
+- C++
+- Java
+- Y proximamente python
+
+Aparte de la programación, me gusta mucho el tema de redes, por lo que estoy estudiando para
+sacar la certificación de CISCO.
+
+
+
 
 What else do you need?
 
